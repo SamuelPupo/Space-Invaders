@@ -1,0 +1,36 @@
+%ifndef NOTES_MAC
+%define NOTES_MAC
+
+%define Sil 22000
+%define Do2 130
+%define Do3 261
+%define Do4 523
+%define Do5 1046
+%define Re2 146
+%define Re3 293
+%define Re4 587
+%define Re5 1174
+%define Mi2 164
+%define Mi3 329
+%define Mi4 659
+%define Mi5 1318
+%define Fa2 174
+%define Fa3 349
+%define Fa4 698
+%define Fa#4 735
+%define Fa5 1396
+%define Sol2 195
+%define Sol3 391
+%define Sol4 783
+%define Sol5 1567
+%define La2 220
+%define La3 440
+%define Las4 466
+%define La4 880
+%define La5 1760
+%define Si2 246
+%define Si3 493
+%define Si4 987
+%define Si5 1975
+
+%endif ; NOTES_MAC
